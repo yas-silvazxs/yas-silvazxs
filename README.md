@@ -1,4 +1,4 @@
-## me chamo yasmin, sou estudante de DS.
+## bem vindo ao meu GITHUB
 
 <!--
 **yas-silvazxs/yas-silvazxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
