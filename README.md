@@ -2,20 +2,26 @@
 
 ###
 
-<p align="left">ME CHAMO YASMIN, CURSO DESENVOLVIMENTO DE SISTEMAS</p>
+<p align="left">YASMIN </p>
+<p align="left">CURSO DESENVOLVIMENTO DE SISTEMAS</p>
+<p align="left">GOSTO DE PROGRAMAÇÃO NO DESENVOLVIMENTO DE SISTEMA</p>
+<p align="left">ESTUDAR, ESCUTAR MUSICA</p>
 
+
+  
 ###
 
 <h2 align="left"></h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
+  ### Linguagens: 
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ebebeb)
+  ![Node.js](https://img.shields.io/badge/-Node.js-336633?style=for-the-badge&logo=node.js&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
 ###
 
 <picture>
@@ -46,3 +52,5 @@
 </div>
 
 ###
+<div align= "center">
+  
